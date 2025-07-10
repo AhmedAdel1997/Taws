@@ -18,3 +18,9 @@ A beauty center app that allows users to book appointments, browse services, and
 ## Screenshots
 
 <!-- Add screenshots here -->
+<img width="150" height="300" alt="unnamed" src="https://github.com/user-attachments/assets/34334d75-c457-4d8e-83c6-1072a6596439" />
+<img width="150" height="300" alt="unnamed (5)" src="https://github.com/user-attachments/assets/eb73bfcb-50c2-4ce5-a873-d886b6310dd4" />
+<img width="150" height="300" alt="unnamed (4)" src="https://github.com/user-attachments/assets/0beaf045-f0d8-4c03-aa7a-f98e547df409" />
+<img width="150" height="300" alt="unnamed (3)" src="https://github.com/user-attachments/assets/10e8bc58-9da4-4fb1-8f87-e843ef531589" />
+<img width="150" height="300" alt="unnamed (2)" src="https://github.com/user-attachments/assets/c4678869-11e6-44e6-9a9f-37e3dcaa5ac8" />
+<img width="150" height="300" alt="unnamed (1)" src="https://github.com/user-attachments/assets/282cc3e4-e644-4738-896e-47a044eecdb7" />
